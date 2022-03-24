@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Web Developer</h3>
 
 - 🌱 I’m currently learning **Development Web Full Stack** at <a href="https://www.labenu.com.br/" target="blank">Labenu</a>
-- 🔭 I’m currently working on front end projects
+- 🔭 I’m currently working on front end individual projects and with a team of labenu students
 - 📫 How to reach me **jacqueline.cmessias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
