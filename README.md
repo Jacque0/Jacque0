@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacqueline Nascimento</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
-- 🌱 I’m currently learning **Development Web Full Stack** at <a href="https://www.labenu.com.br/" target="blank">Labenu</a> and <a href="https://www.alura.com.br/" target="blank">Alura</a>
+- 🌱 I’m always improving in **Development Web Full Stack** at <a href="https://www.alura.com.br/" target="blank">Alura</a>
 - 🔭 I’m currently working on <a href="https://github.com/justapagamentos" target="blank">Justa</a>
 - 📫 How to reach me **jacqueline.cmessias@gmail.com**
 
